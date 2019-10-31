@@ -612,10 +612,8 @@ http://mlp.wikia.com/wiki/Fluttershy
 
 image::./images/emma-watson-wandless.svg.webp[Emma Watson doesn't need a wand to kick your ass]
 
-== Jobs, Emma Watson, Saladin & Knights Templar - Fortune
-
 [[sharp-perl-jobs-EmWatson-Saladin-knights-Templar]]
-==== Jobs, Emma Watson, Saladin & Knights Templar [.selfl]#[link:#sharp-perl-jobs-EmWatson-Saladin-knights-Templar[link]]#
+== Jobs, Emma Watson, Saladin & Knights Templar - Fortune
 
 [cols=",",]
 |===
