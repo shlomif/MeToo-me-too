@@ -956,3 +956,99 @@ of machines, as i'm sure most admins also like
 adhoc scripts on multiple machines on the command line. from what i saw,
 ansible and chef don't allow that
 |===
+
+== Doing code
+
+[cols=",",]
+|===
+|krang |Hey all, what's the best way to call one perl script from
+another? I was thinking I'd just use 'system("script.pl");'
+
+|dazjorz |krang: yeah, that, or do "script.pl"
+
+|dazjorz |krang: depends on how seperated you want them to be
+
+|krang |dazjorz: you mean just a line that has "script.pl"; written on
+it?
+
+|Khisanth |you need the do as well
+
+|dazjorz |krang: no, exactly this: do "script.pl";
+
+|rindolf |krang: system is usually what you want.
+
+|rindolf |krang: normally require or use are preferable to do
+
+|dazjorz |rindolf: that's for modules, isn't it ?
+
+|rindolf |dazjorz: yes.
+
+|dazjorz |wait, I think require "script.pl" would work too
+
+|rindolf |dazjorz: and doing code is not such a good idea.
+
+|dazjorz |rindolf: hmm?
+
+|krang |rindolf: what is doing anyway?
+
+|rindolf |dazjorz: I mean "perldoc -f do"-ing code.
+
+|rindolf |krang: do()-ing
+
+|rindolf |krang: it reads the file and evaluates it.
+
+|rindolf |krang: perldoc -f do.
+
+|dazjorz |rindolf: ah
+
+|dazjorz |rindolf: do \{}
+
+|* rindolf |would rather be doing hot models than doing code. :-)
+
+|dazjorz |rindolf: yeah, do BLOCK is quite useless
+
+|dazjorz |heh
+
+|rindolf |dazjorz: you can do my $var = do \{ ... }
+
+|* dazjorz |would rather be doing GumbyBRAIN than doing code
+
+|GumbyBRAIN |and doing code is not be in the days of immortality!
+
+|rindolf |dazjorz: or eval \{ ... }
+
+|rindolf |dazjorz: heh.
+
+|rindolf |It's hard to do code.
+
+|dazjorz |do $model;
+
+|dazjorz |eh.. sorry, do $hotmodel;
+
+|rindolf |"Are you into my brother?"
+
+|rindolf |"No I'm totally into Perl."
+
+|krang |ah ok, I see. Thanks guys!
+
+|rindolf |krang: yw.
+
+|dazjorz |heh :-)
+
+|rindolf |If you want a configuration file, you should be using
+something like INI, YAML, etc.
+
+|rindolf |XML perhaps.
+
+|rindolf |Something.
+
+|rindolf |Apache-like config.
+
+|dazjorz |Apache-like is very strong but hard to parse, right ?
+
+|dazjorz |Loading and saving configuration never looks good, especially
+when it's XML
+
+|dazjorz |the code to load and save is ugly.
+|===
+
