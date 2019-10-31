@@ -127,28 +127,36 @@ ____
 <adsc>  quite the contrary, actually
 <OnlyForF1> there is a human tendency towards screwing everything that moves
 <rindolf>   Well, I don't think couples own each other's love life or sex life.
-<rindolf>   They just shaer them..
+<rindolf>   They just share them..
 <pyon>  OnlyForF1: I would not call it a "human tendency".
 <OnlyForF1> animal*
-<pyon>  OnlyForF1: We certainly have animal instincts. But, unlike other animals, we can put ourselves above them.
+<pyon>  OnlyForF1: We certainly have animal instincts. But, unlike other
+animals, we can put ourselves above them.
 <millerti>  <http://www.newscientist.com/article/dn14641-monogamy-gene-found-in-people.html#.U7vfsxY_1PY>
 <OnlyForF1> We can, only because of societal pressure
 <pyon>  millerti: If there is a monogamy gene, it must be very weak in me.
-<millerti>  pyon: Like I say, you can do what you want.  It doesn’t really affect me.
+<millerti>  pyon: Like I say, you can do what you want.  It doesn’t really
+affect me.
            However, I have an opinion based on reasoning, not some ancient dogma.
            Monogamy reduces the spread of STDs.
-<millerti>  Another interesting article:  <http://www.ncbi.nlm.nih.gov/books/NBK97287/>
+<millerti>  Another interesting article:
+<http://www.ncbi.nlm.nih.gov/books/NBK97287/>
 <rindolf>   OnlyForF1: I think both men and women appreciate intimacy.
-<adsc>  millerti: well, there are good modern tools to prevent the spreading of STDs without monogamy
+<adsc>  millerti: well, there are good modern tools to prevent the spreading of
+STDs without monogamy
 <rindolf>   Because you need to spend some time with your S.O.
-<millerti>  I even more strongly suggest monogamy to gay men, because of the greater ease with which they can share STDs.
-<pyon>  millerti: Far more important than being monogamous is carefully picking who you fuck with.
+<millerti>  I even more strongly suggest monogamy to gay men, because of the
+greater ease with which they can share STDs.
+<pyon>  millerti: Far more important than being monogamous is carefully picking
+who you fuck with.
 <millerti>  But in any case, condoms are a must.
 <millerti>  pyon: Well, you’re right about that.
-<rindolf>   njcomsec: BTW, Miranda Kerr is very hot/cute too and she's married to Orlando Bloom and mothered his child,
+<rindolf>   njcomsec: BTW, Miranda Kerr is very hot/cute too and she's married
+to Orlando Bloom and mothered his child,
 <adsc>  also, you can test for STDs before you "engage"
 <OnlyForF1> They've separated rindolf
-<millerti>  Think of monogamy as a preventative measure.  It affects the statistics in a good way.
+<millerti>  Think of monogamy as a preventative measure.  It affects the
+statistics in a good way.
 <rindolf>   OnlyForF1: oh, that sucks.
 <OnlyForF1> She did an interview and she talks about how much sex she has
 <rindolf>   OnlyForF1: hope they can get over it.
@@ -191,13 +199,13 @@ https://www.facebook.com/shlomi.fish/posts/10152215145266981[Facebook
 Post]
 
 ____
-I went on a trip to England, especially for the Nine Worlds GeekFest﻿
+I went on a trip to England, especially for the Nine Worlds GeekFest
 con (but continued later on in the Peak District and in Cambridge) and
 want to share various anecdotes for it. Here’s the first one:
 
 On the convention, I saw a young girl (about 10 or 11 y.o) cosplaying as
 Hermione from the Harry Potter films. Now, she had dirty blonde hair as
-opposed to Emma Watson﻿’s original black brownish hair in the films, but
+opposed to Emma Watson’s original black brownish hair in the films, but
 was still quite similar to Hermione. She visited the con along with her
 parents, and brother, and I decided to give them these things:
 
@@ -223,8 +231,8 @@ and they seemed interested to learn.
 {empty}5. Her family and I befriended each other.
 
 {empty}6. I saw that girl again, still wearing the costume, in the last
-day of the conference and she asked me if I Was going to come next year,
-and I told her that I hope to go there (and I do).
+day of the conference, away from her parents, and she asked me if I Was going
+to come next year, and I told her that I hope to go there (and I do).
 
 '''''
 
@@ -476,7 +484,8 @@ https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-l
 [cols=",",]
 |===
 |rindolf |In my imagination, my concept at the time of
-https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar , who was a
+https://en.wikipedia.org/wiki/Sarah_Michelle_Gellar[Sarah Michelle Gellar] ,
+who was a
 relatively wild and polyamorous girl (but still an awesome one) decided
 to duplicate herself and then said "I am going to call my new self
 'Valentine'". So she gets duplicated and her duplicate then says "So I'm
@@ -529,7 +538,7 @@ reduced) set of those.
 |pyon |rindolf: Well... if it is often growing or shrinking, it is not
 fixed.
 
-|gde33|2 |o0elise0o: try costumes
+|gde33 |o0elise0o: try costumes
 https://www.youtube.com/watch?v=ZJgYxWhDDWc
 
 |rindolf |pyon: ah.
@@ -555,13 +564,13 @@ admits that while she knows that Valentine is technically her daughter,
 she causes her so few troubles and is so great, that she has a hard time
 thinking of her as her daughter - she's more like a younger friend.
 
-|gde33|2 |rindolf: you are spoiling the whole movie!
+|gde33 |rindolf: you are spoiling the whole movie!
 
-|rindolf |gde33|2: heh, it's not a real film.
+|rindolf |gde33: heh, it's not a real film.
 
-|gde33|2 |you underacheaver!
+|gde33 |you underachiever!
 
-|gde33|2 |I say, make it so
+|gde33 |I say, make it so
 
 |rindolf |And then she visits a guy and sees that his room is in
 disarray and after she queries him for this he says "Ah, yes, Sarah was
