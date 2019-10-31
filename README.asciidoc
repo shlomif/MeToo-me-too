@@ -1,5 +1,5 @@
-"Me Too" Me Too
-=============
+"#MeToo" Me Too
+===============
 Shlomi Fish <shlomif@cpan.org>
 :Date: 2019-10-31
 :Revision: $Id$
@@ -14,12 +14,19 @@ correspond to https://en.wikipedia.org/wiki/Fitness_(biology)[human biological f
 
 We are planning to collect as many sexualised and even "sexist" jokes about both females and males from https://www.shlomifish.org/humour/fortunes/[our arsenal] to evoke a strong https://en.wikipedia.org/wiki/Me_Too_movement["Me Too"] reaction which we will then take to our advantage. https://en.wikipedia.org/wiki/Bring_It_On_(film)[Bring It On!]
 
+We will show that these people (or non people) are noble, capable, admired,
+and revered, *because* they are so sexually attractive, not despite it.
+
+[id="knowing-John-Galt"]
 John Galt
 ---------
 
-«By the time Chuck Norris found out who John Galt is, Summer Glau already had sex with him.»
-
-— https://www.shlomifish.org/humour/bits/facts/Summer-Glau/
+[quote, Shlomi Fish, 'Summer Glau Facts']
+___
+By the time Chuck Norris found out who John Galt is, Summer Glau already had sex with him.
+__
 
 *Midrash*: part of the reason why I found it funny is because the ancient Hebrew
 verb https://en.wiktionary.org/wiki/%D7%99%D7%93%D7%A2[Yada`] had both meanings, as well as a meaning of "to create/conceive something with pleasure" and possibly other meanings of the geek jargon verb http://www.catb.org/jargon/html/H/hack.html["hack"]. Also see https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacking-heroism[hacking and heroism].
+
+
