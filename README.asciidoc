@@ -611,3 +611,348 @@ http://mlp.wikia.com/wiki/Fluttershy
 == Emma Watson - Wandless
 
 image::./images/emma-watson-wandless.svg.webp[Emma Watson doesn't need a wand to kick your ass]
+
+== Jobs, Emma Watson, Saladin & Knights Templar - Fortune
+
+[[sharp-perl-jobs-EmWatson-Saladin-knights-Templar]]
+==== Jobs, Emma Watson, Saladin & Knights Templar [.selfl]#[link:#sharp-perl-jobs-EmWatson-Saladin-knights-Templar[link]]#
+
+[cols=",",]
+|===
+|johndoemer |what is the best way to find a nice job doing perl in los
+angeles?
+
+|rindolf |johndoemer: jobs.perl.org?
+
+|rindolf |johndoemer: there's also the LA Perl mongers.
+
+|rindolf |johndoemer: and a jobs mailing list.
+
+|johndoemer |I never did a mailing list since in like 95 when I got 500
+emails in 1 day from one
+
+|johndoemer |are they safe?
+
+|rindolf |johndoemer: note that I'm trying not to be picky about which
+jobs I get -
+http://www.shlomifish.org/humour/bits/Emma-Watson-applying-for-a-software-dev-job/
+?
+
+|rindolf |johndoemer: what do you mean by "safe"?
+
+|preaction |johndoemer: you can set up filters. also, the pm lists are
+usually pretty low-volume
+
+|rindolf |johndoemer: what is the worst thing you suspect will happen?
+
+|johndoemer |I guess I never learned how to use a mailing list
+
+|johndoemer |so I sign up and how do I read it without getting 500
+emails a day?
+
+|preaction |look at the archives to see how many e-mails get sent per
+day
+
+|johndoemer |I dunno I just gota escape this unix admin job stuff im
+doing
+
+|rindolf |johndoemer: put it in a separate folder.
+
+|johndoemer |just the interviews driving me batty
+
+|johndoemer |fuck ansible and chef
+
+|rindolf |What is ansible?
+
+|rindolf |Is it a Ruby thing?
+
+|johndoemer |emma watson is butt
+
+|johndoemer |liek a 3
+
+|johndoemer |short with no boobs
+
+|rindolf |johndoemer: butt?
+
+|johndoemer |crappy hair
+
+|johndoemer |looks liek a dude
+
+|rindolf |johndoemer: :-(.
+
+|johndoemer |zomg some brits think shes hottes twoman in film?
+
+|johndoemer |oh my gods!!
+
+|johndoemer |butt ugly
+
+|johndoemer |fake teeth and a lack of implples doesnt mean your pretty
+
+|johndoemer |caveman brow
+
+|johndoemer |short with no tits or ass
+
+|johndoemer |zomg
+
+|preaction |i'm fairly certain that this is not on-topic for #perl
+
+|Grinnz |lol
+
+|rindolf |johndoemer: maybe you should change your attitude. After I
+reached enought enlightenment, I find the vast majority of women
+attractive enough.
+
+|johndoemer |holy crap did they make 8 harry potter films?
+
+|rindolf |johndoemer: but preaction is right.
+
+|rindolf |johndoemer: yes.
+
+|preaction |7 books, +1 last split in two
+
+|johndoemer |the first was one of worst movies ever and glorification of
+government school elitism over capitalism is gross garbage
+
+|johndoemer |did harry ever even pork her?
+
+|rindolf |johndoemer: pork?
+
+|preaction |i'm not sure how that tracks, but this is still not a #perl
+topic
+
+|johndoemer |I thought uk was protestant and all the girls got the pill
+at 15 and its was fun fun fun
+
+|johndoemer |fuck
+
+|Grinnz |so anyway
+
+|rindolf |johndoemer: you have a strange jargon.
+
+|johndoemer |anna nicole smith si hot
+
+|johndoemer |vanessa montagne
+
+|johndoemer |sarenna lee
+
+|johndoemer |pamela anderson
+
+|flight18 |wow
+
+|johndoemer |not emma watson
+
+|rindolf |johndoemer: and I hope you don't have this attitude IRL.
+
+|johndoemer |jeesh
+
+|johndoemer |for 20 years
+
+|preaction |i wish he didn't have it here, either
+
+|johndoemer |ok
+
+|rindolf |johndoemer: please stop.
+
+|johndoemer |I will say this
+
+|johndoemer |rover is < than mad max
+
+|johndoemer |bad movie
+
+|johndoemer |ok
+
+|johndoemer |so why is mojo better than dancer?
+
+|rindolf |johndoemer: some people may disagree that it is.
+
+|rindolf |perlbot: mojo
+
+|perlbot |rindolf: Perl
+
+|flight18 |johndoemer, what did you think of her performance in The
+Bling Ring?
+
+|rindolf |perlbot: mojolicious
+
+|perlbot |rindolf: No factoid found. Did you mean one of these:
+[makealias] [mkalias]
+
+|Grinnz |ol
+
+|Grinnz |that wasn't very helpful perlbot
+
+|johndoemer |http://jobs.perl.org/job/18908 I wonder how they pay for
+expert in perl and SQL, 180K?
+
+|rindolf |johndoemer: 180KUSD/year?
+
+|johndoemer |us $
+
+|johndoemer |I mean an expert in perl must make 125k minimum
+
+|johndoemer |add that database wizardrdy
+
+|johndoemer |SQL
+
+|johndoemer |etc
+
+|Grinnz |ahaha
+
+|johndoemer |must bump it up no?
+
+|johndoemer |hell I was making 80/h doing linux
+
+|johndoemer |but this whole chef thing got outa hand
+
+|rindolf |johndoemer: most Perl people know SQL to some extent.
+
+|johndoemer |I think some java idiots decided lets automate away
+sysadmins so they wont tell us we are morons
+
+|johndoemer |I know sql
+
+|johndoemer |but what version of "expert" I am I dont know
+
+|rindolf |johndoemer: you may wish to read
+http://shlomifishswiki.branchable.com/Saladin_Style/
+
+|johndoemer |has everything got to be javacscript now? I hate javascrpt
+websites with hot red passion
+
+|flight18 |After Harry and Ron save her from a mountain troll in the
+girls' toilets, she becomes close friends with them and often uses her
+quick wit, deft recall, and encyclopaedic knowledge to help them.
+
+|johndoemer |slaad style? like th ebig lizard men from fiend folio?
+
+|rindolf |johndoemer: I use NoScript.
+
+|rindolf |flight18: what?
+
+|rindolf |johndoemer: Saladin style.
+
+|flight18 |Pretty amazing, huh?
+
+|johndoemer |whos that?
+
+|rindolf |johndoemer: Saladin was « Ṣalāḥ ad-Dīn Yūsuf ibn Ayyūb
+(Arabic: صلاح الدين يوسف بن أيوب‎; Kurdish: سه‌لاحه‌دین ئه‌یوبی ,
+Selahedînê Eyûbî) (1137/1138 – March 4, 1193), better known in the
+Western world as Saladin was a Muslim Sultan who liberated most of
+Palestine from the rule of the Knights Templar and the Christian
+crusaders,»
+
+|johndoemer |paladin? like a holy warrior?
+
+|rindolf |johndoemer: the first true Hacker Monarch/Warrior Monarch.
+
+|Grinnz |sounds like a guy that should have been in assassin's creed 1
+:)
+
+|Grinnz |ah, he was
+
+|johndoemer |I want a movie whwereknights templar kill a lot of bad guys
+
+|johndoemer |thats be awesome
+
+|rindolf |Grinnz: heh.
+
+|johndoemer |knights of the round table!
+
+|johndoemer |yeah!
+
+|rindolf |johndoemer: King Arthur predates the knights templar.
+
+|rindolf |johndoemer: there were quite a few films about Saladin.
+
+|Grinnz |johndoemer, except in assassin's creed, the knights templar are
+the bad guys ;)
+
+|johndoemer |why bad?
+
+|johndoemer |didnt they guard the galazxy against evil for athousdan
+generations?
+
+|johndoemer |using the force?
+
+|rindolf |The Legend of Robin Hood is generally set in the time of
+Richard I/Saladin, but the earliest british records predate that.
+
+|rindolf |johndoemer: heh.
+
+|Grinnz |johndoemer, because they want to control the world, etc
+
+|johndoemer |awesome
+
+|johndoemer |same as the brits did briefly eh
+
+|rindolf |Grinnz: well, the Knights Templar started as paranoid,
+murderous and violent and mostly mentally ill.
+
+|johndoemer |menatlly ill?
+
+|johndoemer |hah
+
+|johndoemer |smart sounds like to me
+
+|johndoemer |had multinatinoal mob
+
+|johndoemer |i bet they hid lots of hot women in thier holds
+
+|johndoemer |n a[prtied
+
+|johndoemer |sign me up
+
+|Grinnz |do you by chance have any foreign substances in your
+bloodstream?
+
+|johndoemer |unix adminning is pissing me off
+
+|rindolf |Grinnz: and after Saladin was throught with them, they were
+happy, noble, peaceful mostly sane, and unwilling to fight him.
+
+|johndoemer |nop
+
+|johndoemer |just pissed at bad unix admin job interviews gone bad
+
+|johndoemer |and outa work
+
+|johndoemer |not sure what to do
+
+|preaction |get your skills up-to-date with the new orchestration
+technologies?
+
+|flight18 |johndoemer, why are you here?
+
+|johndoemer |for fun
+
+|johndoemer |u?
+
+|johndoemer |I kinda dont believe in cronfig maangemtn orchestraaation
+
+|preaction |this is a Perl support channel. the Perl chat channel is on
+irc.perl.org
+
+|johndoemer |I believe in client server computing
+
+|johndoemer |and concurrency at language level, name based virtual hosts
+
+|johndoemer |etc
+
+|Grinnz |there are people who don't believe in name based virtual hosts?
+
+|preaction |how is any of that against configuration management?
+
+|johndoemer |well why have 10 urls on 10 vms mate, if u can have 10 on 2
+servers, with name based virtual hosts eh?
+
+|* grettis |has quit (Ping timeout: 245 seconds)
+
+|preaction |i don't like setting up boxes over and over and over again.
+i like getting a config right and then copying it to dozens or hundreds
+of machines, as i'm sure most admins also like
+
+|preaction |but then, i like the idea of rexify.org, where i can run
+adhoc scripts on multiple machines on the command line. from what i saw,
+ansible and chef don't allow that
+|===
