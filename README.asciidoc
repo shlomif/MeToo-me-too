@@ -599,4 +599,4 @@ http://mlp.wikia.com/wiki/Fluttershy
 
 == Emma Watson - Wandless
 
-image::images/emma-watson-wandless.svg.webp
+image::./images/emma-watson-wandless.svg.webp[Emma Watson doesn't need a wand to kick your ass]
