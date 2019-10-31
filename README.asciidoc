@@ -10,7 +10,7 @@ Introduction
 
 The main premise of this essay / braindump / humour piece is that there is a
 strong correlation between competence and ability (see https://en.wikipedia.org/wiki/From_each_according_to_his_ability%2c_to_each_according_to_his_needs[Karl Marx's misled quote] ) and between sexiness / attractiveness / "hot"ness. I do
-not give a citation because I am an [amateur](https://www.shlomifish.org/humour/fortunes/show.cgi?id=paul-graham-what-ameteur-meant) philosopher.
+not give a citation because I am an https://www.shlomifish.org/humour/fortunes/show.cgi?id=paul-graham-what-ameteur-meant[amateur] philosopher.
 
 This attractiveness may in turn
 correspond to human https://en.wikipedia.org/wiki/Fitness_(biology)[biological fitness], which does not fully correlate with the so-called https://en.wikipedia.org/wiki/Physical_fitness[Physical fitness] .
