@@ -6,7 +6,7 @@
 all: epub html pdf
 
 SRC = README.asciidoc
-OUT_base = testing-static-sites
+OUT_base = MeToo-Me-Too
 
 DOCBOOK5_XSL_STYLESHEETS_PATH := /usr/share/sgml/docbook/xsl-ns-stylesheets
 EPUB_SCRIPT = $(DOCBOOK5_XSL_STYLESHEETS_PATH)/epub/bin/dbtoepub
