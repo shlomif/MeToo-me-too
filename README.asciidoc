@@ -29,7 +29,9 @@ __
 *Midrash*: part of the reason why I found it funny is because the ancient Hebrew
 verb https://en.wiktionary.org/wiki/%D7%99%D7%93%D7%A2[Yada`] had both meanings, as well as a meaning of "to create/conceive something with pleasure" and possibly other meanings of the geek jargon verb http://www.catb.org/jargon/html/H/hack.html["hack"]. Also see https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacking-heroism[hacking and heroism].
 
-== Introduction
+== No concented sexual behaviour is unacceptable
+
+=== Introduction
 
 All sexual behaviour is perfectly acceptable and respectful, including:
 
@@ -56,9 +58,9 @@ The necessary conditions for that are:
 . That one is 100% honest about their intentions (don’t lie or play
 games or do ``Pick up art'' or whatever).
 
-== Points
+=== Points
 
-=== Tweet #1
+==== Tweet #1
 
 «A woman is a lady even if she is or was a porn actress or a prostitute
 . Treat her with respect, be honest to her - be a gentleman» —
@@ -66,7 +68,7 @@ https://twitter.com/shlomif/status/478025441983213569
 
 Likewise , with ``A woman is a lady'' → ``A man is a gentleman''.
 
-=== About the August 2014 Celebrity Photo Leak
+==== About the August 2014 Celebrity Photo Leak
 
 https://www.youtube.com/watch?v=Ake-e4dIVA8&google_comment_id=z13ssjmrkofzfnrae04cfrrzczisvxa4gc4[Comment
 on Dave Days’ ``Shake it Off'' parody]
@@ -112,7 +114,7 @@ want to see how much pizza she can eat there on my expense. ☺
 ♥♥♥♥ and XOXO.
 ____
 
-=== Being a slut
+==== Being a slut
 
 ....
 <adsc>  millerti: i don't think that there is a human tendency towards monogamy
@@ -160,7 +162,7 @@ https://plus.google.com/+ShlomiFish/posts/EdHs8tEKYmk[Orland Bloom has
 been careless] and got himself badly injured several times which is
 indicative of a careless character.
 
-==== Excerpt from ``Buffy: A Few Good Slayers''
+===== Excerpt from ``Buffy: A Few Good Slayers''
 
 ____
 *Willow:* So, do you think I should get a dog?
@@ -178,7 +180,7 @@ her exploits with them endlessly.
 *Buffy:* Which just rolls off the tongue.
 ____
 
-=== Facebook Post by Shlomi Fish About Socialising with an ~11 y.o Girl
+==== Facebook Post by Shlomi Fish About Socialising with an ~11 y.o Girl
 
 https://www.facebook.com/shlomi.fish/posts/10152215145266981[Facebook
 Post]
@@ -241,7 +243,7 @@ https://en.wikipedia.org/wiki/One_Fish_Two_Fish_Red_Fish_Blue_Fish .
 A happy (un)?birthday to all!
 ____
 
-=== ``You feature sexy women and girls in your works. Are you a pervert?''
+==== ``You feature sexy women and girls in your works. Are you a pervert?''
 
 (From
 http://www.shlomifish.org/meta/FAQ/#featuring_sexy_women_and_girls[Shlomi
@@ -283,7 +285,182 @@ Just another note about Culkin: some people also criticised him for
 possessing Marijuana and for its use, but many young and not-so-young
 people I talked with have had a history of Marijuana use, or even
 Marijuana addiction, so I do not hold it against him. See my
-[../../philosophy/politics/drug-legalisation/ ``The Case for Drug
-Legalisation''] for why Marijuana, and all other illegal narcotics,
+https://www.shlomifish.org/philosophy/politics/drug-legalisation/[The Case for
+Drug Legalisation] for why Marijuana, and all other illegal narcotics,
 should be made legal globally.
 ____
+
+== 99 Problems
+
+=== Original
+
+* https://en.wikipedia.org/wiki/99_Problems[``99 Problems'' by Jay-Z] -
+``If you’re having girl problems, I feel bad for you son, I got 99
+problems but a bitch ain’t one''. Chorus taken from
+https://en.wikipedia.org/wiki/Home_Invasion_%28album%29[a single by
+Ice-T].
+** https://www.youtube.com/watch?v=LloIp0HMJjc[Pop cover by Hugo] - with
+a different melody and lyrics.
+
+=== xkcd: Perl Problems
+
+http://xkcd.com/1171/[xkcd: Perl problems]:
+
+____
+Two figures stand facing each other. One is wearing sunglasses.
+
+Figure with sunglasses: If you’re havin’ Perl problems I feel bad for
+you, son-
+
+Figure with sunglasses: I got 99 problems,
+
+Figure with sunglasses: so I used regular expressions.
+
+Figure with sunglasses: Now I have 100 problems.
+____
+
+=== Problem (Ariana Grande song)
+
+http://en.wikipedia.org/wiki/Problem_%28Ariana_Grande_song%29[wikipedia:Problem
+(Ariana Grande song)]
+
+* ``Got one less problem without you.''
+* ``I’ve got 99 problems but you won’t be one.''
+* https://www.youtube.com/watch?v=4kTUwAreg7c[Cover by Tiffany Alvord
+and Alex G]
+* https://www.youtube.com/watch?v=z_pkqLb3kq0[Cover by Cimorelli]
+* https://www.youtube.com/watch?v=4Z9b2HiW_L8[Cover by Pentatonix]
+
+==== The Key of Awesome Parody
+
+https://www.youtube.com/watch?v=-koXQqD0p5s[Ariana Grande - Problem ft.
+Iggy Azalea PARODY! Key Of Awesome #87]
+
+«Well, it’s one less paycheck.»
+
+____
+How much wood would a woodchuck chuck if a woodchuck could chuck wood,
+I’ve got 99 verses, but they ain’t that good.
+____
+
+==== Bart Baker Parody
+
+https://www.youtube.com/watch?v=4_qKaiGqALo[Bart Baker Parody]
+
+=== Summerschool at the NSA
+
+* http://www.shlomifish.org/humour/Summerschool-at-the-NSA/ongoing-text.html#getting_clearance__at_the_guards[Summer
+Glau and the two guarding soldiers about problem arithemtics]:
+
+____
+SGlau: So? How’s life?
+
+Andrew: It sucks.
+
+Daniel: Yes, it sucks.
+
+SGlau: Ninety-nine problems, eh?
+
+Daniel: And a bitch ain’t one? yes!
+
+Andrew: Actually, I have a hundred problems.
+
+SGlau: Ah, a significant other?
+
+Andrew: Yes, and me being a soldier here makes her really bitchy.
+
+SGlau: Nice, what is her name?
+
+Andrew: Her name is Felicia, Ma’am.
+
+SGlau: Nice name.
+
+Andrew: Yes, nice name.
+
+SGlau: I suppose serving here at the NSA is also one of your problems?
+
+Daniel: Hey, this place is at least ninety of my problems.
+
+Andrew: I wish it was less than that for me too. I was actually happier
+in Afghanistan.
+
+.
+
+.
+
+.
+
+SGlau: Yes, you are right. I’m here to kick some serious NSA ass (not in
+the physical sense, of course), and make sure you two have ten and nine
+problems respectively.
+
+.
+
+.
+
+.
+
+Daniel: Hey! How about one of us escorting you?
+
+Andrew: Yeah, but who?
+
+Daniel: Andrew, how about you this time?
+
+Andrew: Heh — sure! If only to make my girlfriend jealous.
+
+SGlau: And more bitchy!
+____
+
+=== Shlomi Fish’s Chuck Norris/etc. facts
+
+* http://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-chuck-86[``Chuck
+Norris has 99 problems including a bitch.'']
+* http://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-sglau-13[``Chuck
+Norris has 99 problems including a bitch. Summer Glau has exactly 98
+problems.'']
+
+=== #perl-cats ``In Soviet Russia'' Fortune
+
+http://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-cats-cats-in-soviet-russia[``I’ve
+got 99 problems but kent\n ain’t one.'']
+
+=== From IRC
+
+____
+*rindolf*: Yes, I’m single - I’ve got 99 problems but a bitch ain’t one.
+____
+
+____
+*rindolf*: And yes, I realise that the guy who said that (Jay-Z) now has
+a 100th problem (a bitch) and a 101st problem (a child).
+____
+
+(See http://beyonce.wikia.com/wiki/Jay_Z[``Jay-Z entry'' from the
+Beyoncé wikipedia].)
+
+(*P.S*: and now he reportedly has even more problems: a reported affair
+with his wife’s sister, and a rumored divorce).
+
+(*PPS*: the couple appears to https://beyoncepedia.fandom.com/wiki/Jay-Z[have
+remained together]. Good for them.)
+
+== Honest pick-up art
+
+=== Fresh Prince of Bel-Air: Jazz as a pickup artist:
+
+* https://www.youtube.com/watch?v=KcD7hvH0Wk8[YouTube video]
+* https://www.reddit.com/r/FreshPrince/comments/d5n1n0/jazz_as_a_pickup_artist/[/r/FreshPrince discussion]
+
+=== DAILY GRADVICE
+
+* https://www.youtube.com/watch?v=21uXcvD5lPs[DAILY GRADVICE] - "I want you to sail your dick ship into my lady port"
+
+== Beauty and the Geek
+
+[quote, @shlomif, https://twitter.com/shlomif/status/1188008763363606529]
+___
+Shlomi Fish
+@shlomif
+1st time I was offered to be in beauty and the geek in Israel I voiced this rebuttal: https://shlomif.livejournal.com/63847.html . I was wrong to criticise reality show contestants - https://shlomifish.org/humour.html#pbride_philosophers but nowadays almost all attractive girls are not only attracted to geeks but are quite geeky (= scientifically or technologically or craft/art wise) themselves.
+___
+
