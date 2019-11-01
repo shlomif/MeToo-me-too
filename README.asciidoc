@@ -1053,6 +1053,14 @@ when it's XML
 |dazjorz |the code to load and save is ugly.
 |===
 
+== I have to do TWAIN… - Fortune
+
+*A:* I’m busy right now - I have to do TWAIN.
+
+*B:* Do Shania Twain?
+
+*C:* Oh, I’d love to do Shania Twain.
+
 == So, who the hell is Qoheleth?
 
 [[scene-the_celts_trip_to_damascus]]
